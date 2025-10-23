@@ -101,7 +101,7 @@ export default function About() {
           <div className="animate-slide-in-right">
             <div className="space-y-6">
               <div>
-                <h3 className="text-3xl font-serif font-bold text-gray-800 mb-4">Crafting Your Perfect Day</h3>
+                <h3 className="text-3xl font-serif font-bold text-pink-500 mb-4">Crafting Your Perfect Day</h3>
                 <p className="text-gray-600 leading-relaxed mb-4">
                   At Moments, we believe every wedding tells a unique love story. With over 15 years of experience in
                   the wedding industry, our dedicated team is passionate about transforming your vision into reality.
@@ -113,7 +113,7 @@ export default function About() {
               </div>
 
               <div className="space-y-3">
-                <h4 className="text-lg font-semibold text-gray-800">Our Values:</h4>
+                <h4 className="text-lg font-semibold text-rose-500">Our Values:</h4>
                 <ul className="space-y-2 text-gray-600">
                   <li className="flex items-start gap-3">
                     <span className="text-rose-500 font-bold mt-1">✓</span>
