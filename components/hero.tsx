@@ -53,9 +53,11 @@ export default function Hero() {
           <button className="px-8 py-3 bg-gradient-to-r from-rose-500 to-pink-500 text-white rounded-full font-medium hover:shadow-xl transition-all duration-300 ease-out hover:scale-105 hover:-translate-y-1">
             Book Free Consultation
           </button>
-          <button className="px-8 py-3 border-2 border-rose-300 text-rose-600 rounded-full font-medium hover:bg-rose-50 transition-all duration-300 ease-out hover:scale-105 hover:border-rose-500">
+          <a href="#gallery">
+           <button className="px-8 py-3 border-2 border-rose-300 text-rose-600 rounded-full font-medium hover:bg-rose-50 transition-all duration-300 ease-out hover:scale-105 hover:border-rose-500">
             View Our Work
-          </button>
+           </button>
+          </a>
         </div>
       </div>
     </section>
