@@ -5,7 +5,7 @@ import { useEffect, useState } from "react"
 
 export default function Hero() {
   const [displayText, setDisplayText] = useState("")
-  const fullText = "Your Love Story, Beautifully Planned"
+  const fullText = "Your Love Story, Beautifully Planned with Elegance 💕"
 
   useEffect(() => {
     let index = 0
