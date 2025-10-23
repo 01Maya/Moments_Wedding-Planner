@@ -51,16 +51,18 @@ It’s fully responsive, animated, and thoughtfully structured to deliver a seam
 
 ---
 
+## 🚀 Preview
+
+[moments-wedding-planner.vercel.app](https://moments-wedding-planner.vercel.app/)
+
+---
+
 ## 🖼️ Screenshot
 
 ![Image](https://github.com/user-attachments/assets/61ad7c25-1833-4580-9e90-4e2b3489697f)
 
 ---
 
-## Preview
-
-moments-wedding-planner.vercel.app
----
 
 ## 🚀 Getting Started
 
