@@ -9,7 +9,6 @@ const _geistMono = Geist_Mono({ subsets: ["latin"] });
 export const metadata: Metadata = {
   title: 'Moments-The Best Wedding Planner',
   description: 'We specialize in creating elegant, personalized celebrations that reflect your style and values. ',
-  generator: 'v0.app',
 }
 
 export default function RootLayout({
